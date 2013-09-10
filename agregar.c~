@@ -24,7 +24,7 @@ int AgregarAmigos (){
 		AgregarAmigos ();
 		fclose(archivo);  
 	}
-	else{ 	
+	else{
 		if (opcion[0]=='N' || opcion[0]=='n')
 			printf("\nGracias\n\n");
 		else{
